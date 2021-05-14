@@ -1,0 +1,14 @@
+{
+  "name": "web-server-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hakim Amarullah",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.3"
+  }
+}
