@@ -53,7 +53,7 @@ const getNoteById = (request, h)=>{
     }
     const response = h.response({
         status:"fail",
-        message:"note ${id} Not Found",
+        message:`note ${id} Not Found`,
     });
 
     response.code(404);
