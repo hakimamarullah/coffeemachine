@@ -1,3 +1,4 @@
+const _ = require('lodash');
 const stock = {
 	beans: 0,
 	water: 10
